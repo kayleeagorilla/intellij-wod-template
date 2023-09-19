@@ -1,1 +1,1 @@
-# intellj-wod-template
+# intellij-wod-template
