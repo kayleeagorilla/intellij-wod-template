@@ -6,6 +6,7 @@
 4. Rename the **RenameMe**.js file
 5. Go into **index.html** file and rename <title>**RenameMe**</title> and <script src="RenameMe.js"></script>
 
-**(Whatever filename you changed RenameMe.js to, should be the same in <script src="RenameMe.js"></script>)**
+   **(Whatever filename you changed RenameMe.js to, should be the same in <script src="RenameMe.js"></script>)**
+7. Install npm
 
 You're good to go!
