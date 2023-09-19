@@ -1,6 +1,6 @@
 # intellij-wod-template
 ## How to get started
-1. Click on "Use this template" then "Create new repository"
+1. Click on "Use this template" then "Create a new repository"
 2. Clone repository onto desktop
 3. Open into IntelliJ
 4. Rename the **RenameMe**.js file
