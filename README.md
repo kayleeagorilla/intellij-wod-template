@@ -12,5 +12,6 @@
 7. Go into **index.html** file and rename <title>**RenameMe**</title> and <script src="RenameMe.js"></script>
 
    **(Whatever filename you changed RenameMe.js to, should be the same in <script src="RenameMe.js"></script>)**
-
+**8. Delete all contents in this README.md file
+**   
 You're good to go!
